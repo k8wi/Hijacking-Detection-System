@@ -7,9 +7,12 @@ This project aims to develop a weapon detection system using OpenCV, a popular c
 # Dataset
 The dataset consists of a set of images contaning a weapon and a set of images that don't.
 
-Cascade trainer GUI is used to train the dataset of positive and negative images:
+Cascade trainer GUI is used to train the model using the dataset of positive and negative images:
 positive images: images with weapon
 negative images: images without weapons
+
+This trained model is used to detect weapons in realtime imaging using OpenCV libraries.
+The data is then sent to the Hijacking detection system to drive the motors as per its need.
 
 ![weapon](https://github.com/k8wi/Hijacking-Detection-System/assets/95972832/1a68f0f6-1531-4b79-b6a2-a9ad842746a5)
 

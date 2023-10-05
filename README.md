@@ -1,6 +1,6 @@
 # Hijacking-Detection-System
 
-This project called a HIJACKING DETECTION SYSTEM using Arduino UNO which contains weapon detection, face detection, an automatic door locking system, and a Tranquilizer gun that will neutralize a potential hijacker.
+This project called HIJACKING DETECTION SYSTEM using Arduino UNO which contains weapon detection, face detection, an automatic door locking system, and a Tranquilizer gun that will neutralize a potential hijacker.
 
 This project aims to develop a weapon detection system using OpenCV, a popular computer vision library. The system will be trained on a dataset of images and videos of weapons and non-weapons. Once trained, the system will be able to automatically detect weapons in new images and videos.
 
